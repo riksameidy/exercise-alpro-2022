@@ -90,10 +90,12 @@ Jelaskan dan gambarkan proses assignment yang terjadi menggunakan grafik variabe
 - Buatlah program untuk menghitung ipk dari setiap mahasiswa pada tabel tersebut!
 
 4. The Anagram Problem.
+
 Original Text: 'Institut Teknologi Sumatera'
+
 Result Text: EAIGLKNMROTSU
 
 Buatlah program untuk mengubah sebuah string menjadi string lain dengan rule sebagai berikut:
 - Hasil result string seluruhnya adalah capital.
 - Tidak ada huruf yang duplikat dalam string result.
-- posisi character si string baru terurut secara ascending, namun index genap dan ganjil di tukar dalam pair. Contoh: AEJK menjadi EAKJ.
+- Posisi character si string baru terurut secara ascending, namun index genap dan ganjil di tukar dalam pair. Contoh: AEJK menjadi EAKJ.
