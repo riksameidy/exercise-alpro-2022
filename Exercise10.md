@@ -40,6 +40,8 @@ Buatlah program python dengan mengimplementasikan numpy array untuk mengitung ra
 
 
 2. Estimating pi using dart
+
+
 ![Image 1](https://raw.githubusercontent.com/riksameidy/exercise-alpro-2022/master/estimating_pi_with_dart.png)
 
 
