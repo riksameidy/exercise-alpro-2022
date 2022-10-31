@@ -40,7 +40,8 @@ Buatlah program python dengan mengimplementasikan numpy array untuk mengitung ra
 
 
 2. Estimating pi using dart
-![[estimating_pi_with_dart.png]]
+![Image 1](https://raw.githubusercontent.com/riksameidy/exercise-alpro-2022/master/estimating_pi_with_dart.png)
+
 
 Anda adalah pemain dart yang sangat buruk sehingga ketika anda melemparkan dart ke target, hasilnya selalu random. Anda ingin menggunakan ketidakahlian anda untuk sesuatu yang lain, yaitu mengestimasikan nilai $\pi$. Nilai $\pi$ dapat di estimasikan dengan cara membangkitkan bilangan acak pada area biru dan orange.
 Karena setiap lemparan akan menghasilkan titik secara acak, baik di area orange maupun biru, maka peluang dart akan kena di  lingkaran orange adalah rasio antara luas persegi biru dan lingkaran orange:
